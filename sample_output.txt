@@ -1,0 +1,73 @@
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 1
+Enter student name: zaina
+Enter marks: 45
+Student added!
+
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 1
+Enter student name: eman
+Enter marks: 40
+Student added!
+
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 2
+
+--- Student Records ---
+zaina - 45.0
+eman - 40.0
+
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 3
+Average Marks: 42.50
+
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 4
+Highest: zaina (45.0)
+Lowest: eman (40.0)
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 4
+Highest: zaina (45.0)
+Lowest: eman (40.0)
+Enter choice: 4
+Highest: zaina (45.0)
+Lowest: eman (40.0)
+Lowest: eman (40.0)
+
+
+==== Student Manager ====
+1. Add Student
+2. Show Students
+3. Calculate Average
+4. Highest & Lowest
+5. Exit
+Enter choice: 5
+Exiting program.
